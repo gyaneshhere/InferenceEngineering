@@ -16,6 +16,6 @@ That staircase is the problem every inference optimization exists to solve.
 
 None of them make sense without understanding the naive loop first.
 
-The notebook (https://github.com/elizabetht/100-days-of-inference/blob/main/day01/llm-inference-mechanics.ipynb) is the complete runnable walkthrough.
+The notebook (https://github.com/gyaneshhere/InferenceEngineering/blob/main/llm-inference-mechanics.ipynb) is the complete runnable walkthrough.
 
 #LLM #Inference #MachineLearning #GPT2 #Tokenization #DeepLearning #AI #MLEngineering #100DaysOfInference
